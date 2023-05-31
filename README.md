@@ -4,6 +4,7 @@
 - 📫 How to reach me 
   twitter: @thomasmorais19
   instagram: @_.morais.__
+  Linkedin: Tomás Morais
 
 <!---
 idktigerz/idktigerz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
