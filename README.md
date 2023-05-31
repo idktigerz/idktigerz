@@ -2,8 +2,8 @@
 - 👀 I’m interested in Game Development and AI in games.
 - 🌱 I’m currently learning Games Development at IADE.
 - 📫 How to reach me 
-- twitter: @thomasmorais19
-- instagram: @_.morais.__
+- Twitter: @thomasmorais19
+- Instagram: @_.morais.__
 - Linkedin: Tomás Morais
 
 <!---
