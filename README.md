@@ -2,9 +2,9 @@
 - 👀 I’m interested in Game Development and AI in games.
 - 🌱 I’m currently learning Games Development at IADE.
 - 📫 How to reach me 
-- Twitter: @thomasmorais19
-- Instagram: @_.morais.__
-- Linkedin: Tomás Morais
+  - Twitter: @thomasmorais19
+  - Instagram: @_.morais.__
+  - Linkedin: Tomás Morais
 
 <!---
 idktigerz/idktigerz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
